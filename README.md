@@ -12,9 +12,7 @@ Category & Subcategory Performance: Identify top-performing and underperforming 
 
 Regional Insights: Sales breakdown by state, city, and region.
 
-Customer Segment Analysis: Understand which customer segments drive the most revenue.
-
-Visual Elements: Bar charts, line graphs, maps, cards, and filters for a rich interactive experience.
+Visual Elements: Bar charts, line graphs, cards, and filters for a rich interactive experience.
 
 # Tools & Technologies-
 Power BI Desktop.
